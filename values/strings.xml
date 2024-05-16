@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Espaco Cultural</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget ultricies lacus. Nunc efficitur sapien scelerisque ipsum venenatis blandit. Nulla auctor volutpat consectetur. Donec nec dapibus mi. In a arcu tempor, mattis risus et, semper est. Pellentesque sit amet magna arcu. Pellentesque ut iaculis ipsum.</string>
+    <string name="lorem_ipsum_but_shorter">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget ultricies lacus. Nunc efficitur sapien scelerisque ipsum venenatis blandit. Nulla auctor volutpat consectetur.</string>
+    <string name="qr_code_description">Aproxime a câmera do seu celular ao código QR para poder escanear obras.</string>
+    <string name="camera_off">Desativar câmera</string>
+    <string name="camera_on">Ativar câmera</string>
+</resources>
